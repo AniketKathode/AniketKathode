@@ -15,6 +15,6 @@ Welcome to my GitHub profile! I'm a final year student who is passionate about c
 ## ⚡ Fun Facts
 - I love open-source contributions.
 - I'm learning about AI and machine learning.
-- Outside of coding, I enjoy hiking and photography.
+- Outside of coding, I enjoy hiking and reading.
 
 Thanks for visiting my GitHub! 🚀
