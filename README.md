@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Aniket Kathode.
+# Hi. there! 👋 I'm Aniket Kathode.
 
 Welcome to my GitHub profile! I'm a final year student who is passionate about coding and building innovative solutions. I'm constantly learning and growing, so feel free to explore my repositories and contribute to them.
 
