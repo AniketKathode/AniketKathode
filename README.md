@@ -3,7 +3,7 @@
 Welcome to my GitHub profile! I'm a final year student who is passionate about coding and building innovative solutions. I'm constantly learning and growing, so feel free to explore my repositories and contribute to them.
 
 ## 🔧 Technologies & Tools
-- Programming Languages: Python, JavaScript, Java, C++
+- Programming Languages: Python, Java, C++
 - Web Technologies: HTML, CSS, React, Node.js
 - Database: MySQL, MongoDB
 - Tools: Git, Docker, AWS, Jenkins
