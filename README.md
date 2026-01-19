@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm a final year student who is passionate about c
 ## 🔧 Technologies & Tools
 - Programming Languages: Python, Java, C++
 - Web Technologies: HTML, CSS, React, Node.js
+- AI & ML: Scikit-learn, Pandas, PyTorch, NumPy, Matplotlib, Data Preprocessing, Model Evaluation.
 - Database: MySQL, MongoDB
 - Tools: Git, Docker, AWS, Jenkins
 
