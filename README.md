@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Purushottam Kathode</h1>
 <h3 align="center">Passionate DevOps & Linux Engineer from India | RHCE Certified</h3>
 
-- 🌱 I’m currently learning **Kubernetes (K8s),Data Science..**
+- 🌱 I’m currently learning **Kubernetes (K8s),Data Science**
 
 - 🤝 I’m looking for help with **COntribution where I show case my skills**
 
