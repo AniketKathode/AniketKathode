@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Kubernetes (K8s),Data Science**
 
-- 🤝 I’m looking for help with **COntribution where I show case my skills**
+- 🤝 I’m looking for help with **Contribution where I show case my skills**
 
 - 📫 How to reach me **aniketkathode@gmail.com**
 
